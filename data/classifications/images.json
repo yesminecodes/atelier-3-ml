@@ -1,0 +1,22 @@
+{
+ "qwen/qwen3.8-27b|I01.png": {
+  "categorie": "technique",
+  "latence_s": 1.21
+ },
+ "qwen/qwen3.8-27b|I02.png": {
+  "categorie": "technique",
+  "latence_s": 67.09
+ },
+ "qwen/qwen3.8-27b|I03.png": {
+  "categorie": "technique",
+  "latence_s": 1.59
+ },
+ "qwen/qwen3.8-27b|I04.png": {
+  "categorie": "technique",
+  "latence_s": 75.02
+ },
+ "qwen/qwen3.8-27b|I05.png": {
+  "categorie": "technique",
+  "latence_s": 6.57
+ }
+}
